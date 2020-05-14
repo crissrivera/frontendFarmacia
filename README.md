@@ -1,2 +1,0 @@
-# frontendFarmacia
-Proyecto farmacia
